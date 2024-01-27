@@ -1,0 +1,3 @@
+#!/bin/bash
+
+useradd --create-home --user-group user --password "$(openssl passwd -6 user)"

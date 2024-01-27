@@ -1,0 +1,10 @@
+/.mkosi-*
+/mkosi.builddir/
+/mkosi.output/
+/mkosi.installdir/
+/mkosi.key
+/mkosi.crt
+mkosi.local.conf
+/mkosi.cache/
+/mkosi.rootpw
+/mkosi.userpw
